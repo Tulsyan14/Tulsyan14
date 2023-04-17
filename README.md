@@ -1,4 +1,4 @@
-![logo](https://github.com/Tulsyan14/Tulsyan14/blob/main/Github%20Banner.png)
+![logo](https://github.com/Tulsyan14/Tulsyan14/blob/main/1675907143540.jfif)
 <h1 align="center">Hi 👋, I'm Shikha Tulsyan</h1>
 <h3 align="center">A passionate Data Engineer from London</h3>
 
