@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Shikha Tulsyan</h1>
 <h3 align="center">A passionate Data Engineer from London</h3>
 
-<img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2l3MGJ4aGQzYWhsdnk1a3psOGRkNjJwdWc3bml1MnpuNXB3NjN5NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hpXdHPfFI5wTABdDx9/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tulsyan14&label=Profile%20views&color=0e75b6&style=flat" alt="tulsyan14" /> </p>
 
